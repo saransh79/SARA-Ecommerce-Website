@@ -914,6 +914,9 @@ button {
     padding: 15px;
     font-size: 14px;
 }
+#cart table tbody a{
+    color:#222;
+}
 #cart-add{
     display: flex;
     flex-wrap: wrap;
